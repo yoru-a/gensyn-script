@@ -16,7 +16,7 @@ apt update && apt install -y yarn
 
 echo ""
 echo "Creating new screen session: gensyn"
-screen -S gensyn
+screen -dmS gensyn
 
 echo ""
 echo "Cloning the Gensyn repo..."
