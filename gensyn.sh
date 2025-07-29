@@ -20,7 +20,7 @@ screen -dmS gensyn
 
 echo ""
 echo "Cloning the Gensyn repo..."
-git clone https://github.com/xailong-6969/rl-swarm.git
+git clone https://github.com/gensyn-ai/rl-swarm
 
 echo ""
 echo "Changing directory to rl-swarm..."
